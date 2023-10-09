@@ -1,0 +1,31 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "size": "small",
+      "sauce": "marinara",
+      "toppings": [
+        "pepperoni",
+        "mushrooms"
+      ]
+    },
+    {
+      "id": 2,
+      "size": "medium",
+      "sauce": "white",
+      "toppings": [
+        "sausage",
+        "onions"
+      ]
+    },
+    {
+      "id": 3,
+      "size": "large",
+      "sauce": "BBQ",
+      "toppings": [
+        "chicken",
+        "peppers"
+      ]
+    }
+  ]
+}
